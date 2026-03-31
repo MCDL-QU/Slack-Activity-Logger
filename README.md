@@ -1,7 +1,7 @@
 # Slack Activity Logger
 
 Slack のワークスペースのメンバーのアクティブ時間を集計する簡易アプリケーションbotです。 <br>
-自動でオンラインステータスを集計し、毎日 0 時に [#online-activity-report](<online-activity-repor-aaaapxdyb3vljvtc5ts4kqsqvq@mcdlkyushuuniv.slack.com>) チャンネルへデイリーレポートを送信します。<br>
+自動でオンラインステータスを集計し、毎日 0 時に [#online-activity-report](https://mcdlkyushuuniv.slack.com/archives/C08JXECD11S) チャンネルへデイリーレポートを送信します。<br>
 `rain` にデプロイしています。cronで定期実行させているので、停止させたいときは管理者に依頼してください。
 
 ## 技術スタック
